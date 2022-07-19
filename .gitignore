@@ -1,4 +1,5 @@
-.DS_Store
-/.idea
-*.iml
-*.log
+**.DS_Store
+**/.idea
+**.iml
+**.log
+**/venv
